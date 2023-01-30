@@ -1,0 +1,14 @@
+REFER THIS WEBSITE FOR RESOURCES :: https://tailwindcss.com/
+
+USE TAILWIND CDN
+ <script src="https://cdn.tailwindcss.com"></script>
+
+INSTALLING TAILWIND CSS
+-> npm init  		(have node.js installed)
+-> npm install -D tailwindcss 
+-> npm install vite
+-> npx tailwindcss install
+-> Go to tailwind.config.js and set the content to ["*"]
+-> Install tailwind intellisense extension for vs code
+
+-> npm run start : run the website runs on the localhost
